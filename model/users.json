@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "59de35015f51687ade08b512",
+    "age": 36,
+    "name": "Maldonado Golden",
+    "gender": "male",
+    "email": "maldonadogolden@genekom.com"
+  },
+  {
+    "_id": "59de3501cb46165d12f6e8f5",
+    "age": 35,
+    "name": "Mcgowan Mcleod",
+    "gender": "male",
+    "email": "mcgowanmcleod@genekom.com"
+  },
+  {
+    "_id": "59de3501981294b05928c761",
+    "age": 26,
+    "name": "Schneider Oliver",
+    "gender": "male",
+    "email": "schneideroliver@genekom.com"
+  },
+  {
+    "_id": "59de3501e15b18e11cf8ff0a",
+    "age": 35,
+    "name": "Waller Booth",
+    "gender": "male",
+    "email": "wallerbooth@genekom.com"
+  },
+  {
+    "_id": "59de3501f244e629114f49b0",
+    "age": 30,
+    "name": "Lucia Brewer",
+    "gender": "female",
+    "email": "luciabrewer@genekom.com"
+  },
+  {
+    "_id": "59de350187f784f74cef6fb7",
+    "age": 26,
+    "name": "Silvia Washington",
+    "gender": "female",
+    "email": "silviawashington@genekom.com"
+  },
+  {
+    "_id": "59de3501d31c672e84830eeb",
+    "age": 35,
+    "name": "Odom Evans",
+    "gender": "male",
+    "email": "odomevans@genekom.com"
+  }
+]
