@@ -1,7 +1,6 @@
 # RESTful-API
 RESTful API Using Node, Express and MongoDB
-Programming Assignment
-Aims of This Project
+
 The aims of this project are as follows:
 
 To build a simple web-service.
